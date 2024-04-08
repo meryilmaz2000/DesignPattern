@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Flys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Flys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Bird.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\ItFlys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\CantFly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\ItFlys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3034B0-D76C-451A-AF82-6AB2BD3B2948}|StrategyDesignPattern\\StrategyDesignPattern.vcxproj|solutionrelative:StrategyDesignPattern\\CantFly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Bird.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\Bird.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:55:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\main.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\main.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\main.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:39:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flys.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Flys.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Flys.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Flys.h",
+              "RelativeToolTip": "StrategyDesignPattern\\Flys.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:41:18.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Dog.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.h",
+              "RelativeToolTip": "StrategyDesignPattern\\Dog.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:35:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bird.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Bird.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Bird.h",
+              "RelativeToolTip": "StrategyDesignPattern\\Bird.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:40:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Animal.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\Animal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:29:02.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Animal.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Animal.h",
+              "RelativeToolTip": "StrategyDesignPattern\\Animal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:25:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\Dog.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\Dog.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\Dog.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:38:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItFlys.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\ItFlys.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\ItFlys.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:43:59.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CantFly.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.cpp",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\CantFly.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.cpp",
+              "RelativeToolTip": "StrategyDesignPattern\\CantFly.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T15:44:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItFlys.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\ItFlys.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\ItFlys.h",
+              "RelativeToolTip": "StrategyDesignPattern\\ItFlys.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:42:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CantFly.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.h",
+              "RelativeDocumentMoniker": "StrategyDesignPattern\\CantFly.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\StrategyDesignPattern\\StrategyDesignPattern\\CantFly.h",
+              "RelativeToolTip": "StrategyDesignPattern\\CantFly.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-07T15:42:38.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

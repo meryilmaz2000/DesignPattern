@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\EnemyShipFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\EnemyShipFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\BigUFOEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\EnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\RocketEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\RocketEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\BigUFOEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\EnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\UFOEnemyShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B9B7931-3FA3-42E6-AE72-741BF1FB6B9E}|FactoryDesignPattern\\FactoryDesignPattern.vcxproj|solutionrelative:FactoryDesignPattern\\UFOEnemyShip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\main.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\main.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\main.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T17:43:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyShipFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\EnemyShipFactory.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\EnemyShipFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T18:35:06.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyShipFactory.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.h",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\EnemyShipFactory.h",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShipFactory.h",
+              "RelativeToolTip": "FactoryDesignPattern\\EnemyShipFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T18:30:49.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BigUFOEnemyShip.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\BigUFOEnemyShip.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\BigUFOEnemyShip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T18:27:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyShip.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\EnemyShip.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\EnemyShip.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T17:49:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RocketEnemyShip.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\RocketEnemyShip.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\RocketEnemyShip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T17:59:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RocketEnemyShip.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.h",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\RocketEnemyShip.h",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\RocketEnemyShip.h",
+              "RelativeToolTip": "FactoryDesignPattern\\RocketEnemyShip.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T17:59:37.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BigUFOEnemyShip.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.h",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\BigUFOEnemyShip.h",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\BigUFOEnemyShip.h",
+              "RelativeToolTip": "FactoryDesignPattern\\BigUFOEnemyShip.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T18:26:42.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UFOEnemyShip.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.cpp",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\UFOEnemyShip.cpp",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.cpp",
+              "RelativeToolTip": "FactoryDesignPattern\\UFOEnemyShip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T17:58:45.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyShip.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.h",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\EnemyShip.h",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\EnemyShip.h",
+              "RelativeToolTip": "FactoryDesignPattern\\EnemyShip.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T17:43:40.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UFOEnemyShip.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.h",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\UFOEnemyShip.h",
+              "ToolTip": "C:\\Users\\eryil\\OneDrive\\Belgeler\\GitHub\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPattern\\UFOEnemyShip.h",
+              "RelativeToolTip": "FactoryDesignPattern\\UFOEnemyShip.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T17:57:45.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
