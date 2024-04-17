@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\DeviceButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\DeviceButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVOn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVOff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnItAllOff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\Television.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnItAllOff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVOn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVOff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TurnTVDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\ICommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\ICommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\Radio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\Television.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\IElectronicDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\IElectronicDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\Radio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TVRemote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CEC1CB-E6CC-413D-91CD-6EB8476BEC75}|CommandDesignPattern\\CommandDesignPattern.vcxproj|solutionrelative:CommandDesignPattern\\TVRemote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\main.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\main.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\main.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\main.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:02:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceButton.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\DeviceButton.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\DeviceButton.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:29:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceButton.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\DeviceButton.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\DeviceButton.h",
+              "RelativeToolTip": "CommandDesignPattern\\DeviceButton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:28:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurnTVDown.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVDown.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVDown.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:42:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TurnItAllOff.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnItAllOff.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.h",
+              "RelativeToolTip": "CommandDesignPattern\\TurnItAllOff.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:53:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TurnTVUp.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVUp.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.h",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVUp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:25:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TurnTVOn.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVOn.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.h",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVOn.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:15:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Television.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\Television.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\Television.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:59:57.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnItAllOff.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnItAllOff.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnItAllOff.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TurnItAllOff.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:57:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnTVOff.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVOff.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVOff.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:23:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnTVOn.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVOn.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOn.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVOn.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:27:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnTVUp.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVUp.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVUp.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVUp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:27:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TurnTVOff.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVOff.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVOff.h",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVOff.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T23:06:15.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TurnTVDown.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TurnTVDown.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TurnTVDown.h",
+              "RelativeToolTip": "CommandDesignPattern\\TurnTVDown.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:25:55.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommand.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\ICommand.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\ICommand.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\ICommand.h",
+              "RelativeToolTip": "CommandDesignPattern\\ICommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:14:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Radio.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\Radio.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\Radio.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:45:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IElectronicDevice.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\IElectronicDevice.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\IElectronicDevice.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\IElectronicDevice.h",
+              "RelativeToolTip": "CommandDesignPattern\\IElectronicDevice.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:05:43.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Radio.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\Radio.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Radio.h",
+              "RelativeToolTip": "CommandDesignPattern\\Radio.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:44:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Television.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\Television.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\Television.h",
+              "RelativeToolTip": "CommandDesignPattern\\Television.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:06:56.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TVRemote.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.cpp",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TVRemote.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.cpp",
+              "RelativeToolTip": "CommandDesignPattern\\TVRemote.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T22:32:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TVRemote.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.h",
+              "RelativeDocumentMoniker": "CommandDesignPattern\\TVRemote.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\CommandDesignPattern\\CommandDesignPattern\\TVRemote.h",
+              "RelativeToolTip": "CommandDesignPattern\\TVRemote.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:31:19.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
