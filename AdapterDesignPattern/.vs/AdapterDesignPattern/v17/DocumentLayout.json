@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyRobotAdapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyRobotAdapter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\IEnemyAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\IEnemyAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE43DFFA-9856-4948-99E9-EB6D9B4CEA8E}|AdapterDesignPattern\\AdapterDesignPattern.vcxproj|solutionrelative:AdapterDesignPattern\\EnemyTank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyRobotAdapter.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.cpp",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyRobotAdapter.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.cpp",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyRobotAdapter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:12:36.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyRobotAdapter.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.h",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyRobotAdapter.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobotAdapter.h",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyRobotAdapter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:11:28.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyRobot.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.cpp",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyRobot.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.cpp",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyRobot.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:05:24.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyRobot.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.h",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyRobot.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyRobot.h",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyRobot.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:01:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyTank.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.cpp",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyTank.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.cpp",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyTank.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T07:48:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyTank.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.h",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\EnemyTank.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\EnemyTank.h",
+              "RelativeToolTip": "AdapterDesignPattern\\EnemyTank.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T07:48:10.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\main.cpp",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\main.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\main.cpp",
+              "RelativeToolTip": "AdapterDesignPattern\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T07:46:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnemyAttacker.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\IEnemyAttacker.h",
+              "RelativeDocumentMoniker": "AdapterDesignPattern\\IEnemyAttacker.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\IEnemyAttacker.h",
+              "RelativeToolTip": "AdapterDesignPattern\\IEnemyAttacker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T07:45:55.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

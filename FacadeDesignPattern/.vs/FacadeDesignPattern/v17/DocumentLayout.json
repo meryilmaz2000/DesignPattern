@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\BankAccountFacade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\BankAccountFacade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\FundsCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\FundsCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\SecurityCodeCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\SecurityCodeCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\AccountNumberCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\AccountNumberCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\WelcomeToBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF135FC-4E9E-42BD-864A-E42F0B87CEA1}|FacadeDesignPattern\\FacadeDesignPattern.vcxproj|solutionrelative:FacadeDesignPattern\\WelcomeToBank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountFacade.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\BankAccountFacade.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\BankAccountFacade.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T11:09:31.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountFacade.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.h",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\BankAccountFacade.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\BankAccountFacade.h",
+              "RelativeToolTip": "FacadeDesignPattern\\BankAccountFacade.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:59:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FundsCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\FundsCheck.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\FundsCheck.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:50:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FundsCheck.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.h",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\FundsCheck.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\FundsCheck.h",
+              "RelativeToolTip": "FacadeDesignPattern\\FundsCheck.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:49:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityCodeCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\SecurityCodeCheck.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\SecurityCodeCheck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:48:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityCodeCheck.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.h",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\SecurityCodeCheck.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\SecurityCodeCheck.h",
+              "RelativeToolTip": "FacadeDesignPattern\\SecurityCodeCheck.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:46:37.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\main.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\main.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\main.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:40:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountNumberCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\AccountNumberCheck.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\AccountNumberCheck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:45:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountNumberCheck.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.h",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\AccountNumberCheck.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\AccountNumberCheck.h",
+              "RelativeToolTip": "FacadeDesignPattern\\AccountNumberCheck.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:44:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WelcomeToBank.cpp",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.cpp",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\WelcomeToBank.cpp",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.cpp",
+              "RelativeToolTip": "FacadeDesignPattern\\WelcomeToBank.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:42:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WelcomeToBank.h",
+              "DocumentMoniker": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.h",
+              "RelativeDocumentMoniker": "FacadeDesignPattern\\WelcomeToBank.h",
+              "ToolTip": "C:\\Users\\eryil\\source\\repos\\FacadeDesignPattern\\FacadeDesignPattern\\WelcomeToBank.h",
+              "RelativeToolTip": "FacadeDesignPattern\\WelcomeToBank.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:42:07.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
